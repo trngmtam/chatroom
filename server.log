@@ -1,0 +1,243 @@
+2025-07-30 18:03:25 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-07-30 18:03:33 - INFO - [CLIENTS] Now connected: ['tam']
+2025-07-30 18:03:33 - INFO - [CONNECTED] tam from ('127.0.0.1', 54318)
+2025-07-30 18:03:37 - INFO - [CLIENTS] Now connected: ['tam', 'nq']
+2025-07-30 18:03:37 - INFO - [CONNECTED] nq from ('127.0.0.1', 54320)
+2025-07-30 18:03:49 - INFO - [PUBLIC] nq: hi there
+2025-07-30 18:03:57 - INFO - [PRIVATE] tam -> nq: hi
+2025-07-30 18:04:03 - INFO - [PRIVATE] tam -> nq: ❤️👍
+2025-07-30 18:04:11 - INFO - [UPLOAD] Saved file '2312.10696.pdf' as '18-04-11_2312.10696.pdf' (5619547 bytes)
+2025-07-30 18:04:11 - INFO - [FILE] tam sharing file '2312.10696.pdf' (ID: 18-04-11_2312.10696.pdf)
+2025-07-30 18:04:11 - INFO - [FILE] tam shared publicly: 2312.10696.pdf
+2025-07-30 18:04:24 - INFO - [DOWNLOAD] nq requesting file '18-04-11_2312.10696.pdf'
+2025-07-30 18:04:24 - INFO - [DOWNLOAD] Sent file '18-04-11_2312.10696.pdf' to nq (5619547 bytes)
+2025-07-30 18:04:52 - INFO - [CLIENTS] Now connected: ['tam']
+2025-07-30 18:04:52 - INFO - [DISCONNECTED] nq from ('127.0.0.1', 54320)
+2025-07-30 18:05:10 - INFO - [CLIENTS] Now connected: []
+2025-07-30 18:05:10 - INFO - [DISCONNECTED] tam from ('127.0.0.1', 54318)
+2025-07-30 18:05:21 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-07-30 18:06:17 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-07-30 18:06:32 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-07-30 18:06:36 - INFO - [SHUTDOWN] Server shutting down...
+2025-07-30 18:12:02 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-07-30 18:12:29 - INFO - [CLIENTS] Now connected: ['nq']
+2025-07-30 18:12:29 - INFO - [CONNECTED] nq from ('127.0.0.1', 54474)
+2025-07-30 18:12:55 - INFO - [CLIENTS] Now connected: ['nq', 'tam']
+2025-07-30 18:12:55 - INFO - [CONNECTED] tam from ('127.0.0.1', 54478)
+2025-07-30 18:13:02 - INFO - [PUBLIC] nq: hello
+2025-07-30 18:13:18 - INFO - [PUBLIC] nq: okay
+2025-07-30 18:13:23 - INFO - [PUBLIC] nq: I will send you a file
+2025-07-30 18:13:29 - INFO - [UPLOAD] Saved file '6811749992993.mp4' as '18-13-29_6811749992993.mp4' (3305073 bytes)
+2025-07-30 18:13:29 - INFO - [FILE] nq sharing file '6811749992993.mp4' (ID: 18-13-29_6811749992993.mp4)
+2025-07-30 18:13:29 - INFO - [FILE] nq shared publicly: 6811749992993.mp4
+2025-07-30 18:13:36 - INFO - [DOWNLOAD] tam requesting file '18-13-29_6811749992993.mp4'
+2025-07-30 18:13:36 - INFO - [DOWNLOAD] Sent file '18-13-29_6811749992993.mp4' to tam (3305073 bytes)
+2025-07-30 18:14:07 - INFO - [PUBLIC] tam: this is my favorite song
+2025-07-30 18:14:17 - INFO - [UPLOAD] Saved file 'Thanks for .mp4' as '18-14-15_Thanks for .mp4' (65258713 bytes)
+2025-07-30 18:14:17 - INFO - [FILE] tam sharing file 'Thanks for .mp4' (ID: 18-14-15_Thanks for .mp4)
+2025-07-30 18:14:17 - INFO - [FILE] tam shared publicly: Thanks for .mp4
+2025-07-30 18:14:22 - INFO - [DOWNLOAD] nq requesting file '18-14-15_Thanks for .mp4'
+2025-07-30 18:14:23 - INFO - [DOWNLOAD] Sent file '18-14-15_Thanks for .mp4' to nq (65258713 bytes)
+2025-07-30 18:14:48 - INFO - [PUBLIC] nq: cool
+2025-07-30 18:15:23 - INFO - [UPLOAD] Saved file 'IMG_9651 2 (1).MOV' as '18-15-21_IMG_9651 2 (1).MOV' (68593415 bytes)
+2025-07-30 18:15:23 - INFO - [FILE] nq sharing file 'IMG_9651 2 (1).MOV' (ID: 18-15-21_IMG_9651 2 (1).MOV)
+2025-07-30 18:15:23 - INFO - [FILE] nq shared publicly: IMG_9651 2 (1).MOV
+2025-07-30 18:15:27 - INFO - [DOWNLOAD] tam requesting file '18-15-21_IMG_9651 2 (1).MOV'
+2025-07-30 18:15:29 - INFO - [DOWNLOAD] Sent file '18-15-21_IMG_9651 2 (1).MOV' to tam (68593415 bytes)
+2025-07-30 18:15:52 - INFO - [UPLOAD] Saved file '1898.jpg' as '18-15-51_1898.jpg' (31869648 bytes)
+2025-07-30 18:15:52 - INFO - [FILE] nq sharing file '1898.jpg' (ID: 18-15-51_1898.jpg)
+2025-07-30 18:15:52 - INFO - [FILE] nq shared publicly: 1898.jpg
+2025-07-30 18:16:12 - INFO - [CLIENTS] Now connected: ['nq']
+2025-07-30 18:16:12 - INFO - [DISCONNECTED] tam from ('127.0.0.1', 54478)
+2025-07-30 18:16:14 - INFO - [CLIENTS] Now connected: []
+2025-07-30 18:16:14 - INFO - [DISCONNECTED] nq from ('127.0.0.1', 54474)
+2025-07-30 18:17:16 - INFO - [SHUTDOWN] Server shutting down...
+2025-07-30 18:17:17 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-07-30 18:17:27 - INFO - [CLIENTS] Now connected: ['tam']
+2025-07-30 18:17:27 - INFO - [CONNECTED] tam from ('127.0.0.1', 54505)
+2025-07-30 18:17:30 - INFO - [CLIENTS] Now connected: ['tam', 'nq']
+2025-07-30 18:17:30 - INFO - [CONNECTED] nq from ('127.0.0.1', 54506)
+2025-07-30 18:17:34 - INFO - [UPLOAD] Saved file '1898.jpg' as '18-17-34_1898.jpg' (31869648 bytes)
+2025-07-30 18:17:34 - INFO - [FILE] nq sharing file '1898.jpg' (ID: 18-17-34_1898.jpg)
+2025-07-30 18:17:34 - INFO - [FILE] nq shared publicly: 1898.jpg
+2025-07-30 18:17:39 - INFO - [CLIENTS] Now connected: ['nq']
+2025-07-30 18:17:39 - INFO - [DISCONNECTED] tam from ('127.0.0.1', 54505)
+2025-07-30 18:17:41 - INFO - [CLIENTS] Now connected: []
+2025-07-30 18:17:41 - INFO - [DISCONNECTED] nq from ('127.0.0.1', 54506)
+2025-07-30 18:23:04 - INFO - [SHUTDOWN] Server shutting down...
+2025-07-30 18:23:05 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-07-30 18:23:26 - INFO - [CLIENTS] Now connected: ['nq']
+2025-07-30 18:23:26 - INFO - [CONNECTED] nq from ('127.0.0.1', 54540)
+2025-07-30 18:30:35 - INFO - [CLIENTS] Now connected: []
+2025-07-30 18:30:35 - INFO - [DISCONNECTED] nq from ('127.0.0.1', 54540)
+2025-07-30 22:06:43 - INFO - [SHUTDOWN] Server shutting down...
+2025-07-30 22:06:44 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-07-30 22:07:12 - INFO - [CLIENTS] Now connected: ['nq']
+2025-07-30 22:07:12 - INFO - [CONNECTED] nq from ('127.0.0.1', 55133)
+2025-07-30 22:07:12 - INFO - [CLIENTS] Now connected: []
+2025-07-30 22:07:12 - INFO - [DISCONNECTED] nq from ('127.0.0.1', 55133)
+2025-07-30 22:07:33 - INFO - [SHUTDOWN] Server shutting down...
+2025-07-30 22:15:22 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-07-30 22:18:34 - INFO - [SHUTDOWN] Server shutting down...
+2025-07-30 22:18:35 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-07-30 22:18:41 - INFO - [CLIENTS] Now connected: ['nq']
+2025-07-30 22:18:41 - INFO - [CONNECTED] nq from ('127.0.0.1', 55246)
+2025-07-30 22:25:53 - INFO - [CLIENTS] Now connected: []
+2025-07-30 22:25:53 - INFO - [DISCONNECTED] nq from ('127.0.0.1', 55246)
+2025-07-30 22:25:57 - INFO - [SHUTDOWN] Server shutting down...
+2025-08-01 00:41:56 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-08-01 00:42:06 - INFO - [CLIENTS] Now connected: ['mtam']
+2025-08-01 00:42:06 - INFO - [CONNECTED] mtam from ('127.0.0.1', 64629)
+2025-08-01 00:42:13 - WARNING - [REJECTED] mtam already exists
+2025-08-01 00:42:18 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi']
+2025-08-01 00:42:18 - INFO - [CONNECTED] nghi from ('127.0.0.1', 64634)
+2025-08-01 00:42:25 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi', 'quynh']
+2025-08-01 00:42:25 - INFO - [CONNECTED] quynh from ('127.0.0.1', 64636)
+2025-08-01 00:42:38 - INFO - [PUBLIC] nghi: hello everyoneee
+2025-08-01 00:42:43 - INFO - [PUBLIC] nghi: how are youuuu
+2025-08-01 00:42:54 - INFO - [PRIVATE] nghi -> quynh: hi quynhhh
+2025-08-01 00:43:13 - INFO - [PRIVATE] nghi -> mtam: hiiiiiii
+2025-08-01 00:43:21 - INFO - [PRIVATE] mtam -> quynh: hiiiiii
+2025-08-01 00:43:31 - INFO - [PRIVATE] mtam -> quynh: 🥳🥳👏👏👏👏😎😎hahhaha
+2025-08-01 00:43:39 - INFO - [PUBLIC] mtam: 🚀🚀🚀🚀flyyy
+2025-08-01 00:43:51 - INFO - [PUBLIC] mtam: :smile: :cry: huhu
+2025-08-01 00:44:00 - INFO - [UPLOAD] Saved file 'ecrypt.png' as '00-44-00_ecrypt.png' (96856 bytes)
+2025-08-01 00:44:00 - INFO - [FILE] mtam sharing file 'ecrypt.png' (ID: 00-44-00_ecrypt.png)
+2025-08-01 00:44:00 - INFO - [FILE] mtam shared publicly: ecrypt.png
+2025-08-01 00:45:19 - INFO - [CLIENTS] Now connected: ['mtam', 'quynh']
+2025-08-01 00:45:19 - INFO - [DISCONNECTED] nghi from ('127.0.0.1', 64634)
+2025-08-01 00:45:22 - INFO - [CLIENTS] Now connected: ['mtam']
+2025-08-01 00:45:22 - INFO - [DISCONNECTED] quynh from ('127.0.0.1', 64636)
+2025-08-01 00:45:24 - INFO - [CLIENTS] Now connected: []
+2025-08-01 00:45:24 - INFO - [DISCONNECTED] mtam from ('127.0.0.1', 64629)
+2025-08-01 00:45:41 - INFO - [SHUTDOWN] Server shutting down...
+2025-08-01 00:45:56 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-08-01 00:46:01 - INFO - [CLIENTS] Now connected: ['mtam']
+2025-08-01 00:46:01 - INFO - [CONNECTED] mtam from ('127.0.0.1', 64656)
+2025-08-01 00:46:06 - WARNING - [REJECTED] mtam already exists
+2025-08-01 00:46:11 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi']
+2025-08-01 00:46:11 - INFO - [CONNECTED] nghi from ('127.0.0.1', 64663)
+2025-08-01 00:46:21 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi', 'quyn']
+2025-08-01 00:46:21 - INFO - [CONNECTED] quyn from ('127.0.0.1', 64670)
+2025-08-01 00:46:32 - INFO - [PUBLIC] nghi: hellooo everyoneee
+2025-08-01 00:46:37 - INFO - [PRIVATE] nghi -> mtam: hi mtam
+2025-08-01 00:46:49 - INFO - [PRIVATE] quyn -> nghi: hii nghii
+2025-08-01 00:47:21 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi']
+2025-08-01 00:47:21 - INFO - [DISCONNECTED] quyn from ('127.0.0.1', 64670)
+2025-08-01 00:47:22 - INFO - [CLIENTS] Now connected: ['nghi']
+2025-08-01 00:47:22 - INFO - [DISCONNECTED] mtam from ('127.0.0.1', 64656)
+2025-08-01 00:47:23 - INFO - [CLIENTS] Now connected: []
+2025-08-01 00:47:23 - INFO - [DISCONNECTED] nghi from ('127.0.0.1', 64663)
+2025-08-01 00:47:29 - INFO - [SHUTDOWN] Server shutting down...
+2025-08-01 00:47:39 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-08-01 00:47:43 - INFO - [CLIENTS] Now connected: ['mtam']
+2025-08-01 00:47:43 - INFO - [CONNECTED] mtam from ('127.0.0.1', 64691)
+2025-08-01 00:47:48 - WARNING - [REJECTED] mtam already exists
+2025-08-01 00:47:53 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi123']
+2025-08-01 00:47:53 - INFO - [CONNECTED] nghi123 from ('127.0.0.1', 64694)
+2025-08-01 00:47:59 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi123', 'quynh']
+2025-08-01 00:47:59 - INFO - [CONNECTED] quynh from ('127.0.0.1', 64697)
+2025-08-01 00:48:24 - INFO - [PUBLIC] nghi123: hellooo everyoneee
+2025-08-01 00:48:28 - INFO - [PUBLIC] nghi123: are u good
+2025-08-01 00:48:45 - INFO - [PRIVATE] mtam -> quynh: hiiiii quynh
+2025-08-01 00:48:59 - INFO - [PRIVATE] mtam -> quynh: ❤️❤️❤️🙏🙏🙏😎😎😎😎😎
+2025-08-01 00:49:04 - INFO - [PUBLIC] mtam: 👏👏👏😎😎😎😎😎
+2025-08-01 00:49:16 - INFO - [PRIVATE] nghi123 -> quynh: :smile:
+2025-08-01 00:49:36 - INFO - [PUBLIC] nghi123: :smile:
+2025-08-01 00:49:43 - INFO - [PRIVATE] nghi123 -> quynh: :smile:
+2025-08-01 00:49:47 - INFO - [CLIENTS] Now connected: ['mtam', 'quynh']
+2025-08-01 00:49:47 - INFO - [DISCONNECTED] nghi123 from ('127.0.0.1', 64694)
+2025-08-01 00:49:49 - INFO - [CLIENTS] Now connected: ['quynh']
+2025-08-01 00:49:49 - INFO - [DISCONNECTED] mtam from ('127.0.0.1', 64691)
+2025-08-01 00:49:53 - INFO - [CLIENTS] Now connected: []
+2025-08-01 00:49:53 - INFO - [DISCONNECTED] quynh from ('127.0.0.1', 64697)
+2025-08-01 00:50:20 - INFO - [SHUTDOWN] Server shutting down...
+2025-08-01 00:50:21 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-08-01 00:50:25 - INFO - [CLIENTS] Now connected: ['mtam']
+2025-08-01 00:50:25 - INFO - [CONNECTED] mtam from ('127.0.0.1', 64721)
+2025-08-01 00:50:30 - WARNING - [REJECTED] mtam already exists
+2025-08-01 00:50:34 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi123']
+2025-08-01 00:50:34 - INFO - [CONNECTED] nghi123 from ('127.0.0.1', 64726)
+2025-08-01 00:50:42 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi123', 'quynh']
+2025-08-01 00:50:42 - INFO - [CONNECTED] quynh from ('127.0.0.1', 64730)
+2025-08-01 00:51:02 - INFO - [PUBLIC] nghi123: helloo everyone
+2025-08-01 00:51:08 - INFO - [PRIVATE] nghi123 -> nghi123: hello nghi
+2025-08-01 00:51:17 - INFO - [PRIVATE] nghi123 -> nghi123: hello
+2025-08-01 00:51:22 - INFO - [PRIVATE] mtam -> mtam: hii
+2025-08-01 00:51:25 - INFO - [CLIENTS] Now connected: ['mtam', 'quynh']
+2025-08-01 00:51:25 - INFO - [DISCONNECTED] nghi123 from ('127.0.0.1', 64726)
+2025-08-01 00:51:27 - INFO - [CLIENTS] Now connected: ['quynh']
+2025-08-01 00:51:27 - INFO - [DISCONNECTED] mtam from ('127.0.0.1', 64721)
+2025-08-01 00:51:28 - INFO - [CLIENTS] Now connected: []
+2025-08-01 00:51:28 - INFO - [DISCONNECTED] quynh from ('127.0.0.1', 64730)
+2025-08-01 00:51:31 - INFO - [SHUTDOWN] Server shutting down...
+2025-08-01 00:52:21 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-08-01 00:52:35 - INFO - [CLIENTS] Now connected: ['mtam']
+2025-08-01 00:52:35 - INFO - [CONNECTED] mtam from ('127.0.0.1', 64749)
+2025-08-01 00:52:50 - WARNING - [REJECTED] mtam already exists
+2025-08-01 00:52:57 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi']
+2025-08-01 00:52:57 - INFO - [CONNECTED] nghi from ('127.0.0.1', 64755)
+2025-08-01 00:53:16 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi', 'quynh']
+2025-08-01 00:53:16 - INFO - [CONNECTED] quynh from ('127.0.0.1', 64763)
+2025-08-01 00:53:31 - INFO - [PUBLIC] nghi: hello
+2025-08-01 00:53:37 - INFO - [PRIVATE] nghi -> mtam: hello
+2025-08-01 00:53:57 - INFO - [PUBLIC] mtam: ❤️❤️👏👏😎😎😎
+2025-08-01 00:54:04 - INFO - [PRIVATE] mtam -> quynh: 😎😎😄😄😂😂
+2025-08-01 00:54:21 - INFO - [PUBLIC] quynh: :smile: :cry: huhuhu
+2025-08-01 00:54:28 - INFO - [UPLOAD] Saved file 'left1.png' as '00-54-28_left1.png' (153067 bytes)
+2025-08-01 00:54:28 - INFO - [FILE] nghi sharing file 'left1.png' (ID: 00-54-28_left1.png)
+2025-08-01 00:54:39 - INFO - [UPLOAD] Saved file 'ecrypt.png' as '00-54-39_ecrypt.png' (96856 bytes)
+2025-08-01 00:54:39 - INFO - [FILE] nghi sharing file 'ecrypt.png' (ID: 00-54-39_ecrypt.png)
+2025-08-01 00:54:39 - INFO - [FILE] nghi shared publicly: ecrypt.png
+2025-08-01 00:57:49 - INFO - [CLIENTS] Now connected: ['mtam', 'nghi']
+2025-08-01 00:57:49 - INFO - [DISCONNECTED] quynh from ('127.0.0.1', 64763)
+2025-08-01 00:57:50 - INFO - [CLIENTS] Now connected: ['nghi']
+2025-08-01 00:57:50 - INFO - [DISCONNECTED] mtam from ('127.0.0.1', 64749)
+2025-08-01 00:58:17 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-08-01 00:58:24 - INFO - [CLIENTS] Now connected: ['mtam']
+2025-08-01 00:58:24 - INFO - [CONNECTED] mtam from ('127.0.0.1', 64798)
+2025-08-01 00:58:31 - INFO - [CLIENTS] Now connected: ['mtam', 'dy']
+2025-08-01 00:58:31 - INFO - [CONNECTED] dy from ('127.0.0.1', 64801)
+2025-08-01 00:58:41 - INFO - [UPLOAD] Saved file 'applsci-14-04124.pdf' as '00-58-41_applsci-14-04124.pdf' (9743816 bytes)
+2025-08-01 00:58:41 - INFO - [FILE] mtam sharing file 'applsci-14-04124.pdf' (ID: 00-58-41_applsci-14-04124.pdf)
+2025-08-01 00:58:41 - INFO - [FILE] mtam shared publicly: applsci-14-04124.pdf
+2025-08-01 00:58:47 - INFO - [DOWNLOAD] dy requesting file '00-58-41_applsci-14-04124.pdf'
+2025-08-01 00:58:47 - INFO - [DOWNLOAD] Sent file '00-58-41_applsci-14-04124.pdf' to dy (9743816 bytes)
+2025-08-01 00:59:06 - INFO - [CLIENTS] Now connected: ['mtam']
+2025-08-01 00:59:06 - INFO - [DISCONNECTED] dy from ('127.0.0.1', 64801)
+2025-08-01 00:59:08 - INFO - [CLIENTS] Now connected: []
+2025-08-01 00:59:08 - INFO - [DISCONNECTED] mtam from ('127.0.0.1', 64798)
+2025-08-01 00:59:42 - INFO - [SHUTDOWN] Server shutting down...
+2025-08-01 00:59:45 - INFO - [STARTED] Chat server on 127.0.0.1:8888
+2025-08-01 00:59:49 - INFO - [CLIENTS] Now connected: ['mtam']
+2025-08-01 00:59:49 - INFO - [CONNECTED] mtam from ('127.0.0.1', 64812)
+2025-08-01 00:59:56 - WARNING - [REJECTED] mtam already exists
+2025-08-01 01:00:05 - INFO - [CLIENTS] Now connected: ['mtam', 'quynh']
+2025-08-01 01:00:05 - INFO - [CONNECTED] quynh from ('127.0.0.1', 64815)
+2025-08-01 01:00:14 - INFO - [CLIENTS] Now connected: ['mtam', 'quynh', 'nghi']
+2025-08-01 01:00:14 - INFO - [CONNECTED] nghi from ('127.0.0.1', 64825)
+2025-08-01 01:00:33 - INFO - [PUBLIC] quynh: hellooo
+2025-08-01 01:00:38 - INFO - [PRIVATE] quynh -> mtam: hellooo
+2025-08-01 01:00:44 - INFO - [PRIVATE] quynh -> mtam: 🥳🥳🥳😄😄😄😂😂😂
+2025-08-01 01:00:51 - INFO - [PUBLIC] quynh: 👏👏🔥🔥🔥🙏🙏🙏aeaeawe
+2025-08-01 01:00:59 - INFO - [PUBLIC] quynh: :smile: :cry: huhuuhu
+2025-08-01 01:01:10 - INFO - [UPLOAD] Saved file 'article_05.pdf' as '01-01-10_article_05.pdf' (4299136 bytes)
+2025-08-01 01:01:10 - INFO - [FILE] quynh sharing file 'article_05.pdf' (ID: 01-01-10_article_05.pdf)
+2025-08-01 01:01:10 - INFO - [FILE] quynh shared publicly: article_05.pdf
+2025-08-01 01:01:25 - INFO - [DOWNLOAD] mtam requesting file '01-01-10_article_05.pdf'
+2025-08-01 01:01:25 - INFO - [DOWNLOAD] Sent file '01-01-10_article_05.pdf' to mtam (4299136 bytes)
+2025-08-01 01:01:54 - INFO - [UPLOAD] Saved file 'applsci-14-04124.pdf' as '01-01-54_applsci-14-04124.pdf' (9743816 bytes)
+2025-08-01 01:01:54 - INFO - [FILE] mtam sharing file 'applsci-14-04124.pdf' (ID: 01-01-54_applsci-14-04124.pdf)
+2025-08-01 01:01:54 - INFO - [FILE] mtam -> quynh: applsci-14-04124.pdf
+2025-08-01 01:02:04 - INFO - [DOWNLOAD] quynh requesting file '01-01-54_applsci-14-04124.pdf'
+2025-08-01 01:02:04 - INFO - [DOWNLOAD] Sent file '01-01-54_applsci-14-04124.pdf' to quynh (9743816 bytes)
+2025-08-01 01:02:22 - INFO - [CLIENTS] Now connected: ['mtam', 'quynh']
+2025-08-01 01:02:22 - INFO - [DISCONNECTED] nghi from ('127.0.0.1', 64825)
+2025-08-01 01:02:38 - INFO - [CLIENTS] Now connected: ['mtam', 'quynh', 'mtmm']
+2025-08-01 01:02:38 - INFO - [CONNECTED] mtmm from ('127.0.0.1', 64835)
+2025-08-01 01:02:45 - INFO - [CLIENTS] Now connected: ['quynh', 'mtmm']
+2025-08-01 01:02:45 - INFO - [DISCONNECTED] mtam from ('127.0.0.1', 64812)
+2025-08-01 01:03:04 - INFO - [CLIENTS] Now connected: ['quynh']
+2025-08-01 01:03:04 - INFO - [DISCONNECTED] mtmm from ('127.0.0.1', 64835)
+2025-08-01 01:03:07 - INFO - [CLIENTS] Now connected: []
+2025-08-01 01:03:07 - INFO - [DISCONNECTED] quynh from ('127.0.0.1', 64815)
